@@ -1,6 +1,7 @@
+#!/usr/bin/python
 from bs4 import BeautifulSoup
 import requests
-characters = ["Tyrion Lannister","Cersei Lannister","Daenerys Targaryen","Jorah Mormont"]
+characters = open("temp.txt","r")
 url = "https://twitter.com/search?f=users&q="
 account_url="https://twitter.com"
 for char in characters:

@@ -1,0 +1,58 @@
+GoT
+: 850454
+Tyrion Lannister
+: 339642
+Cersei Lannister
+: 484596
+Daenerys Targaryen
+: 716750
+Jon Snow
+: 261702
+Sansa Stark
+: 228644
+Arya Stark
+: 340459
+Jorah Mormont
+: 54750
+Jaime Lannister
+: 131564
+Samwell Tarly
+: 58034
+Theon Greyjoy
+: 197045
+Petyr Baelish
+: 363980
+Varys
+: 208874
+Brienne of Tarth
+: 166048
+Grand Maester Pycelle
+: 220
+Bronn
+: 298836
+Catelyn Stark
+: 181588
+Bran Stark
+: 121051
+Stannis Baratheon
+: 49450
+Missandei
+: 192370
+Margaery Tyrell
+: 176898
+Davos Seaworth
+: 62444
+Melisandre
+: 318537
+Gilly
+: 214032
+Tommen Baratheon
+: 122709
+Roose Bolton
+: 230121
+Tormund
+: 92816
+Gendry
+: 49249
+Grey Worm
+: 127010
