@@ -1,6 +1,6 @@
 Welcome.This is Fun project, to analyse and predict deaths of characters in the upcoming season of GoT. 
 
-
+Check at: http://game-of-death.herokuapp.com/
 
 The probablity of death is calculated by considering multiple factors into account.The different factors are popularity of the character, importance of the character to the whole show,whether the character is good or bad and age.Each of these factors contribute to the PoD in different weightages.
 
