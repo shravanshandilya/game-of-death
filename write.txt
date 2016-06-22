@@ -1,0 +1,32 @@
+Tyrion Lannister,Peter Dinklage
+Cersei Lannister,Lena Headey
+Daenerys Targaryen,Emilia Clarke
+Jon Snow,Kit Harrington
+Sansa Stark,Sophie Turner
+Arya Stark,Maisie Williams
+Jorah Mormont,Iain Glen
+Jaime Lannister,Nikolaj Coster-Waldau
+Samwell Tarly,John Bradley-West
+Theon Greyjoy,Alfie Allen
+Petyr Baelish,Aidan Gillen
+Varys,Conleth Hill
+Brienne of Tarth,Gwendoline Christie
+Grand Maester Pycelle,Julian Glover
+Bronn,Jerome Flynn
+Catelyn Stark,Michelle Fairley
+Bran Stark,Isaac Hempstead-Wright
+Stannis Baratheon,Stephen Dillane
+Missandei,Nathalie Emmanuel
+Margaery Tyrell,Natalie Dormer
+Davos Seaworth,Liam Cunningham
+Melisandre,Carice van Houten
+Gilly,Hannah Murray
+Tommen Baratheon,Callum Wharry
+Roose Bolton,Michael McElhatton
+Tormund,Kristofer Hivju
+Gendry,Joe Dempsie
+Grey Worm,Jacob Anderson
+Daario Naharis,Ed Skrein
+Ramsay Bolton,Iwan Rheon
+Jaqen H'ghar,Tom Wlaschiha
+Hodor,Kristian Nairn

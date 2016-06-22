@@ -1,0 +1,32 @@
+Tyrion Lannister,488704
+Cersei Lannister,95649
+Daenerys Targaryen,443455
+Jon Snow,1643436
+Sansa Stark,90136
+Arya Stark,116590
+Jorah Mormont,7180
+Jaime Lannister,47619
+Samwell Tarly,52818
+Theon Greyjoy,39592
+Petyr Baelish,20813
+Varys,810880
+Brienne of Tarth,35735
+Grand Maester Pycelle,30
+Bronn,24031
+Catelyn Stark,48019
+Bran Stark,21316
+Stannis Baratheon,32210
+Missandei,12378
+Margaery Tyrell,78796
+Davos Seaworth,8039
+Melisandre,612364
+Gilly,3846505
+Tommen Baratheon,41196
+Roose Bolton,17070
+Tormund,5242
+Gendry,16411
+Grey Worm,8810
+Daario Naharis,7651
+Ramsay Bolton,15375
+Jaqen H'ghar,22056
+Hodor,87046

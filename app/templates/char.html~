@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<!--
+	Linear by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Game of Death</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='static/css/font/font.css' rel='stylesheet' type='text/css'>
+		<script src="static/jquery.min.js"></script>
+		<script src="static/js/skel.min.js"></script>
+		<script src="static/js/skel-panels.min.js"></script>
+		<script src="static/js/init.js"></script>
+		<link rel="stylesheet" href="static/css/skel-noscript.css" />
+		<link rel="stylesheet" href="static/css/style.css" />
+		<link rel="stylesheet" href="static/css/style-desktop.css" />
+		<link rel="stylesheet" href="static/css/pb.css"/>
+	</head>
+	<body>
+
+	<!-- Header -->
+		<div id="header">
+			<div id="nav-wrapper"> 
+				<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li><a href="index">HOME</a></li>
+						<li><a href="how-it-works">HOW IT WORKS?</a></li>
+						<li><a href="contribute">CONTRIBUTE</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	<!-- Header --> 
+
+	<!-- Main -->
+		<div id="featured">
+			<div id="content" class="container">
+				<section>
+					<header>
+						<h2>{{ char.replace("_"," ") }}</h2>
+						<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
+					</header>
+					
+					<div class="wrap">
+						<div><h3 class="byline">Popularity</h3></div>
+						<div><canvas class="pb" id="my_canvas1" width="200" height="200" style="border:1px  #CCC;" value="{{ test[0] }}"></canvas></div>
+					</div>
+					<div class="wrap">
+						<div><h3 class="byline">Good or Bad</h3></div>
+						<div><canvas class="pb" id="my_canvas2" width="200" height="200" style="border:1px  #CCC;" value="{{ test[1] }}"></canvas></div>
+					</div>
+					<div class="wrap">
+						<div><h3 class="byline">How important ?</h3></div>
+						<div><canvas class="pb" id="my_canvas3" width="200" height="200" style="border:1px  #CCC;" value="{{ test[2] }}"></canvas></div>
+					</div>
+					<div class="wrap">
+						<div><h3 class="byline">Blow up some shit!</h3></div>
+						<div><canvas class="pb" id="my_canvas4" width="200" height="200" style="border:1px  #CCC;" value="{{ test[3] }}"></canvas></div>
+					</div>
+					<script type="text/javascript" src="static/js/pb.js"></script>
+					
+				</section>
+			</div>
+		</div>
+	<!-- /Main -->
+
+	<!-- Copyright -->
+		<div id="copyright">
+			<div class="container">
+			<a href="http://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>
+			</div>
+		</div>
+
+
+	</body>
+</html>

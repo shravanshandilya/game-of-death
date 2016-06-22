@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import character
 characters = []
-char_data = open("char_data.txt","r")
 
 def get_got_followers(char = "GoT"):
 	print "Doing twitter analysis on",char
@@ -25,8 +24,7 @@ def get_got_followers(char = "GoT"):
                        	print handle,followers
        	print char,":",followers
 
-got_followers = get_got_followers()
+print get_got_followers("GoT")
+print get_got_followers("Game of Thrones")
+print get_got_followers("game of thrones")
 	
-for line in char_data:
-	char = character(line,got_followers)
-	print char.get_formatted_name()

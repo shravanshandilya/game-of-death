@@ -2,11 +2,9 @@
 from bs4 import BeautifulSoup
 import requests
 characters = open("temp.txt","r")
-twitter_data = open("twitter_data.txt","w+")
 url = "https://twitter.com/search?f=users&q="
 account_url="https://twitter.com"
 for char in characters:
-	print "Getting data for ",char
 	soup = BeautifulSoup(requests.get(url+char.replace(" ","%20")).content,"html.parser")
 	results = soup.find_all("div",{"class":"ProfileCard  js-actionable-user"})
 	followers = 0
@@ -17,11 +15,8 @@ for char in characters:
 		val = another_soup.find("span",{"class":"ProfileNav-value"})
 		if "K" in str(val):
 			followers+=int(float(str(val.contents[0].split("K")[0])))*1000
-			print handle,followers
+			#print handle,followers
 		else:
 			followers+=int(str(val.contents[0].replace(",","")))
-			print handle,followers
+			#print handle,followers
 	print char,":",followers
-	twitter_data.write(char,followers)
-twitter_data.close()
-character.close()

@@ -1,0 +1,47 @@
+.pb{
+	clear:left;
+	margin-top:1px;
+  	margin-right:40px;
+  	margin-bottom:30px;
+  	margin-left:30px;
+}
+.wrap{
+	float:left;
+}
+.pb_pop{
+	/* clear:left; */
+	margin-top:1px;
+	/* margin-right:80px; */
+	margin-left: 80px;
+	font-size:20pt;
+}
+.pb_ali{
+	/* clear:left; */
+	margin-top:1px;
+	/* margin-right:160px; */
+	margin-left: 165px;
+	font-size:20pt;
+}
+.pb_imp{
+	clear:left;
+	margin-top:1px;
+	/* margin-right: 10px; */
+	margin-left: 160px;
+	font-size:20pt;
+}
+.pb_age{
+	clear:left;
+	margin-top:1px;
+	margin-right: 10px;
+	margin-left: 160px;
+	font-size:20pt;
+}
+.pb_main{
+	clear: inherit;
+	margin-top:1px;
+	margin-right:150px;
+	margin-bottom:30px;
+	margin-left: 475px;
+	font-size:20pt;
+}
+

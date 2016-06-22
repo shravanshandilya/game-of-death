@@ -1,0 +1,32 @@
+Tyrion Lannister,A,M,9,10,9,8,10,46,N,38
+Cersei Lannister,A,F,10,9,8,9,8,44,NE,42
+Daenerys Targaryen,A,F,9,8,8,8,8,41,NG,21
+Jon Snow,U,M,8,8,8,8,9,41,NG,20
+Sansa Stark,U,F,9,7,8,7,9,40,N,18
+Arya Stark,A,F,9,9,9,6,6,39,CG,16
+Jorah Mormont,A,M,9,7,8,7,8,39,NG,48
+Jaime Lannister,A,M,8,4,7,9,7,35,NG,42
+Samwell Tarly,A,M,5,6,8,7,9,35,LG,23
+Theon Greyjoy,U,M,9,8,6,3,6,32,N,24
+Petyr Baelish,A,M,8,7,4,5,6,30,LE,34
+Varys,A,M,7,6,5,6,4,28,LN,52
+Brienne of Tarth,A,F,0,7,7,7,6,27,LG,22
+Grand Maester Pycelle,A,M,8,5,3,6,5,27,LN,86
+Bronn,A,M,5,7,4,4,6,26,N,53
+Catelyn Stark,U,M,9,8,8,0,0,25,NG,37
+Bran Stark,A,M,8,7,6,4,0,25,NG,15
+Stannis Baratheon,U,M,0,7,5,4,8,24,LE,38
+Missandei,A,F,0,0,8,7,7,22,NG,14
+Margaery Tyrell,A,F,0,4,6,6,5,21,LN,19
+Davos Seaworth,A,M,0,6,4,4,7,21,LG,42
+Melisandre,A,M,0,4,6,3,6,19,CN,39
+Gilly,A,M,0,3,6,3,6,18,N,17
+Tommen Baratheon,A,M,4,4,0,5,5,18,N,19
+Roose Bolton,A,M,0,4,7,2,4,17,LE,47
+Tormund,A,M,0,0,7,5,5,17,LN,38
+Gendry,A,M,2,7,8,0,0,17,NG,18
+Grey Worm,U,M,0,0,5,7,5,17,LN,26
+Daario Naharis,A,M,0,0,3,5,7,15,NE,35
+Ramsay Bolton,A,M,0,0,6,3,6,15,CE,31
+Jaqen H'ghar,A,M,1,6,0,0,6,13,CN,40
+Hodor,A,M,5,7,5,4,0,21,N,27
