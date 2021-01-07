@@ -16,7 +16,7 @@ httplib2==0.8
 itsdangerous==0.24
 Jinja2==2.8
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.2
 MarkupSafe==0.23
 mercurial==2.8.2
 mibanda==0.20150119
