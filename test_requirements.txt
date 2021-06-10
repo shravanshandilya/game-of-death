@@ -7,7 +7,7 @@ command-not-found==0.3
 debtagshw==0.1
 defer==1.0.6
 dirspec==13.10
-Django==1.9.1
+Django==2.2.24
 duplicity==0.6.23
 Flask==0.10.1
 gattlib==0.20150805
